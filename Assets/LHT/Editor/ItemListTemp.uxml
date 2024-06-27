@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="Temp" style="flex-direction: row; align-items: center;">
+        <ui:VisualElement name="Icon" style="background-image: url(&apos;project://database/Assets/LHT/Sprite/moon.png?fileID=2800000&amp;guid=3e2f063da74e642c38be52f21f68b49a&amp;type=3#moon&apos;); width: 30px; height: 30px; margin-left: 3px; margin-right: 3px;" />
+        <ui:Label text="模版" display-tooltip-when-elided="true" name="Name" style="font-size: 16px;" />
+    </ui:VisualElement>
+</ui:UXML>
