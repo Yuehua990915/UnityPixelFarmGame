@@ -10,6 +10,7 @@ Unity2D像素种田游戏项目\
 - 砍树、种地、建造
   <img width="1920" alt="image" src="https://github.com/Yuehua990915/UnityPixelFarmGame/assets/107607976/78c845d4-8480-4c24-bf3e-99f49f6285ca">
   <img width="1920" alt="image" src="https://github.com/Yuehua990915/UnityPixelFarmGame/assets/107607976/b4333875-be04-4f01-b610-863d04a25f72">
+  作物在不同生长阶段的显示
   <img width="1920" alt="image" src="https://github.com/Yuehua990915/UnityPixelFarmGame/assets/107607976/c221851e-9819-4a86-bc5a-c25d381fcf78">
 - 背包、交易
   <img width="1920" alt="image" src="https://github.com/Yuehua990915/UnityPixelFarmGame/assets/107607976/162e9adb-dc71-4f05-a2f8-27e7c3df262a">
